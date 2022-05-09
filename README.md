@@ -1,1 +1,3 @@
 # Final_project
+## Brief Summary
+I chose to use data from the [San Francisco Government website](https://data.sfgov.org/widgets/pyih-qa8i) in this project because as a former back of the house resturant worker I saw a variety of kitchen conditions. Some conditions were significantly more favorable than others. This Dataset addresses violations and risk assesments of various resturants in San Francisco. A quick look at the [tableau dashboard](https://public.tableau.com/app/profile/tristan.j.vaccarino/viz/SanFranciscoRestaurantRiskDashboard/Dashboard1) and you can see that the vast majority of resturants are lumped into the low risk. 
